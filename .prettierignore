@@ -1,0 +1,4 @@
+# Ignore artifaces:
+.next/
+# Ingnore specific file:
+package-lock.json 
